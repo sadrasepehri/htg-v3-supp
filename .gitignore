@@ -1,0 +1,6 @@
+paste_hosted/
+secrets/
+*.key
+*.txt
+!README.md
+.env
